@@ -2,7 +2,7 @@ import requests
 import os
 
 # List of GitHub usernames to check
-usernames = ["username1", "username2", "username3"]
+usernames = ["heasdweghuion", "haewqfafd", "hadhuiccav"]
 
 # Discord webhook URL
 webhook_url = os.getenv('DISCORD_WEBHOOK_URL')
